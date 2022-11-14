@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668438614 source:c:\users\leonel\desktop\utn\programacion\clases\recu parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668438654 source:c:\users\leonel\desktop\recu parcial2\recu parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+

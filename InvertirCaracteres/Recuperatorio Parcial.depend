@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668437983 source:c:\users\leonel\desktop\utn\programacion\clases\recuperatorio parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
